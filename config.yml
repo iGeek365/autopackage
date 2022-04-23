@@ -4,6 +4,6 @@ build:
   ndk:
     abi_64: ndk {abiFilters 'arm64-v8a', 'x86_64'}
     abi_32: ndk {abiFilters 'armeabi-v7a', 'x86'}
-  apk_output_dir: app/build/outputs/apk/prod/release
+  apk_output_dir: ../app/build/outputs/apk/prod/release
 dest:
   apk_dir: D:/codes/other/LeafNote-resources/apks
