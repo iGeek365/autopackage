@@ -5,5 +5,9 @@ build:
     abi_64: ndk {abiFilters 'arm64-v8a', 'x86_64'}
     abi_32: ndk {abiFilters 'armeabi-v7a', 'x86'}
   apk_output_dir: ../app/build/outputs/apk/prod/release
+  # The mapping file location. 
+  mapping_path: ../app/mapping.txt
 dest:
   apk_dir: D:/codes/other/LeafNote-resources/apks
+community:
+  languages_dir: D:/codes/other/LeafNote-Community/languages/app
