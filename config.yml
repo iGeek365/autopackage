@@ -20,3 +20,8 @@ mail:
     - xxxx
   user: xxxx
   password: xxxx
+lanzou:
+  username: XXXX
+  password: XXXX
+  ylogin: XXXX
+  phpdisk_info: XXXX
