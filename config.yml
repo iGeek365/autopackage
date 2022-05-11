@@ -21,7 +21,10 @@ mail:
   user: xxxx
   password: xxxx
 lanzou:
-  username: XXXX
-  password: XXXX
-  ylogin: XXXX
-  phpdisk_info: XXXX
+  username: xxxx
+  password: xxxx
+  ylogin: xxxx
+  phpdisk_info: xxxx
+telegram:
+  chat_id: xxxx
+  token: xxxx
